@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto de dashboard em Power BI foi desenvolvido para fornecer uma visão detalhada e abrangente do desempenho de um eCommerce. O dashboard inclui várias visualizações que permitem aos usuários analisar dados de vendas, pedidos e descontos, bem como filtrar informações por diferentes critérios, como anos e segmentos de mercado.
+Este projeto de dashboard em Power BI foi desenvolvido para fornecer uma visão geral do desempenho de um eCommerce. O dashboard inclui várias visualizações que permitem aos usuários analisar dados de vendas, pedidos e descontos, bem como filtrar informações por diferentes critérios, como anos e segmentos de mercado.
 
 ![Dashboard eCommerce](https://github.com/vhsmdev/dashboard-ecommerce/blob/main/PrintsProjeto/P00.png?raw=true)
 
